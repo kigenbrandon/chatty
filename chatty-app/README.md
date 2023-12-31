@@ -1,5 +1,5 @@
 # Chatty
-[chat-app](http://localhost:8080) this is simple chat room application.
+[chat-app](http://localhost:8080) this is web socket simple chat room application. 
 ### Technology used
 #### Languages:
 * Java

@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/spring-boot-websocket-chat-app/chat.iml" filepath="$PROJECT_DIR$/spring-boot-websocket-chat-app/chat.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/chatty.iml" filepath="$PROJECT_DIR$/.idea/chatty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chatty-app/chatty.iml" filepath="$PROJECT_DIR$/chatty-app/chatty.iml" />
     </modules>
   </component>
 </project>

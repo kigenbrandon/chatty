@@ -4,10 +4,13 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/spring-boot-websocket-chat-app/pom.xml" />
+        <option value="$PROJECT_DIR$/chatty-app/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="19" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/chatty-app" />
+  </component>
   <component name="ProjectType">
     <option name="id" value="jpab" />
   </component>
