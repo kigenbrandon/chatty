@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/spring-boot-websocket-chat-app/pom.xml" />
         <option value="$PROJECT_DIR$/chatty-app/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
